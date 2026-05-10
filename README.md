@@ -2,7 +2,7 @@
 
 Une plateforme collaborative de gestion de projets tout-en-un, développée avec Laravel (backend) et React/TypeScript (frontend).
 
-## 🚀 Fonctionnalités
+##  Fonctionnalités
 
 - **Gestion des projets** : Création, modification et suivi des projets
 - **Gestion des tâches** : Assignation, statut, commentaires et historique
@@ -36,7 +36,7 @@ Une plateforme collaborative de gestion de projets tout-en-un, développée avec
 - Node.js 18+
 - npm ou bun
 
-## 🚀 Installation et Configuration
+##  Installation et Configuration
 
 ### 1. Cloner le dépôt
 ```bash
@@ -112,7 +112,7 @@ cd task-gleam-desk-redesign
 npm run test
 ```
 
-## 📚 API Documentation
+## API Documentation
 
 ### Authentification
 - `POST /api/auth/register` - Inscription
@@ -133,7 +133,7 @@ npm run test
 - `PATCH /api/taches/{id}/statut` - Changer le statut
 - `PATCH /api/taches/{id}/assignation` - Assigner une tâche
 
-## 🤝 Contribution
+##  Contribution
 
 1. Fork le projet
 2. Créer une branche feature (`git checkout -b feature/AmazingFeature`)
@@ -152,5 +152,5 @@ Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de
 
 ---
 
-Développé avec ❤️ pour la gestion collaborative de projets.</content>
+Développé pour la gestion collaborative de projets.</content>
 <parameter name="filePath">/home/sylvestre/Documents/Digitale-solution/README.md
